@@ -8,4 +8,4 @@ Various types of gamepads are supported, such as those from PS5, Xbox One and Xb
 This repository just contains the C# source code of the game, for those curious to explore the underlying mechanics.
 Please note that Mystic Axe uses some paid assets I bought; therefore, the repository does not include the entire Unity project with all the assets, in order to avoid copyright violations.
 
-If you want to try the game, you can download the build from this link: https://mega.nz/folder/IZs0yRDD#Pv3OZ2z46DSpak1H_nJF5A
+If you want to try out the game, you can download the build from this link: https://mega.nz/folder/IZs0yRDD#Pv3OZ2z46DSpak1H_nJF5A
